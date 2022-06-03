@@ -3,7 +3,10 @@ const navbar = document.querySelector(".navbar");
 
 
 function mobile_menu(){
-    if(navbar.style.right == "-100%"){navbar.style.right = "0"}
+    if(navbar.style.right == "-100%"){
+        navbar.style.right = "0";
+        navbar.style.display = "block";
+    }
     else{navbar.style.right = "-100%"}
 }
 

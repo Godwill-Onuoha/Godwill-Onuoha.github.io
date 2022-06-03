@@ -25,6 +25,7 @@ html {
 
 header {
   background-color:rgb(17, 80, 17);
+  color:white;
   padding: 2em;
   width: 100%;
   overflow-x: hidden;
@@ -45,7 +46,7 @@ header nav {
   display:none;
   top: 48.38px;
   width: 50%;
-  background-color: #ecc3c3;
+  background-color: rgb(17, 80, 17);
   height: calc(100vh - 48.38px);
   -webkit-transition: .5s;
   transition: .5s;

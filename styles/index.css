@@ -329,7 +329,7 @@ header nav ul li a {
 
 .contact h3 {
   font-size: 3rem;
-  color: #923e3e;
+  color: rgb(23, 122, 23);
 }
 
 .contact button {
@@ -383,7 +383,7 @@ footer p {
 }
 
 footer p:hover {
-  background-color: #ecc3c3;
+  background-color: rgb(23, 122, 23);
 }
 
 footer p:hover a {
